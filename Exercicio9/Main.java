@@ -17,14 +17,6 @@ public class Main {
         
         System.out.println(v.proximoLivre());
         System.out.println(v.proximoLivre());
-        int i =0,soma=0;
-        
-        while( i < 5){
-            soma += i;
-            i++;
-            
-        }
-        System.out.println(soma);
         
     }
 }
